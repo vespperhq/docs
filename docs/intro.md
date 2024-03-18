@@ -1,5 +1,4 @@
 ---
-sidebar_position: 1
 slug: /
 ---
 
@@ -12,36 +11,17 @@ Let's discover Merlinn in **less than 5 minutes**!
 Merlinn is a tool that helps software teams investigate production issues quickly and efficiently using AI. Think of it as
 your personal assistant that knows your system and can help you troubleshoot problems.
 
-### What you'll need
+### Demo
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+For a detailed illustration, check out our 6-minute demo:
 
-## Generate a new site
+<div style={{position: "relative", paddingBottom: "62.5%", height: 0}}>
+  <iframe src="https://www.loom.com/embed/85dc64d021cc40c4b1064389c20782a6?sid=416bb9ab-eaa1-47d4-aeaf-15438c96b603" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style={{position: "absolute", top: 0, left: 0, width: "100%", height: "100%"}}></iframe>
+</div>
 
-Generate a new Docusaurus site using the **classic template**.
+## How does it work?
 
-The classic template will automatically be added to your project after you run the command:
+Merlinn is a smart AI agent. It connects with your organization's systems, knowledge bases and communication channels and helps you tackle
+production issues in real time.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+At the moment, we support a wide range of integrations such as DataDog, Coralogix, Github, Slack, Confluence, and more.
