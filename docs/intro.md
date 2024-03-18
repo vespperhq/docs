@@ -1,16 +1,16 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover Merlinn in **less than 5 minutes**!
 
-## Getting Started
+## Overview
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Merlinn is a tool that helps software teams investigate production issues quickly and efficiently using AI. Think of it as
+your personal assistant that knows your system and can help you troubleshoot problems.
 
 ### What you'll need
 
