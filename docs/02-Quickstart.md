@@ -4,7 +4,7 @@ This guide walks you through the steps of getting Merlinn up and running. Specif
 
 ## Prerequisites
 
-Make sure you have an account. If you don't, you can [sign up](https://app.merlinn.co/) for free.
+Make sure you have an account. If you don't have one yet, you can [sign up](https://app.merlinn.co/) for free.
 
 ## Setup
 
@@ -27,7 +27,7 @@ To allow other team members to interact with Merlinn, you need to invite them to
 
 ### Connect Slack
 
-Merlinn mainly lives inside your Slack workspace. To connect Merlinn to your Slack workspace, follow these steps:
+After you create an organization, you need to connect Merlinn to your Slack workspace. To connect Merlinn to your workspace, follow these steps:
 
 1. Inside your organization settings, go to "Integrations".
 2. Locate the "Slack" integration and click "Add".
