@@ -36,11 +36,10 @@ After you create an organization, you need to connect Merlinn to your Slack work
 
 ### Connect other integrations
 
-Merlinn supports several other integrations. To connect other integrations, go to your "Integrations" page and
-simply follow the instructions for each integration.
+Merlinn supports several other integrations. To connect other integrations, go to your "Integrations" page and click "Add".
 
 :::info
-You have to connect Slack and at least one other integration before you can use Merlinn.
+To learn which integrations are available, check the [Integrations](./03-Integrations/01-Slack.md) section.
 :::
 
 ### Configure webhooks
@@ -53,7 +52,9 @@ The steps usually involves:
 1. Generating a secret from the dashboard
 2. Adding the secret to the webhook HTTP headers in the corresponding source.
 
-There are specific instructions for each source inside the "Webhooks" page.
+:::info
+To learn more about webhooks, check the [Webhooks](./04-Webhooks/01-PagerDuty.md) section.
+:::
 
 ### Create a knowledge graph
 
