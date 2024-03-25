@@ -1,3 +1,7 @@
+---
+sidebar_class_name: slack
+---
+
 # Slack
 
 This guide shows you how to integrate Merlinn with Slack.

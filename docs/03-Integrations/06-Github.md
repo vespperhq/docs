@@ -1,3 +1,7 @@
+---
+sidebar_class_name: github
+---
+
 # Github
 
 This guide shows you how to integrate Merlinn with Github.

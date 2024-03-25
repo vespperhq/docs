@@ -1,3 +1,7 @@
+---
+sidebar_class_name: confluence
+---
+
 # Confluence
 
 This guide shows you how to integrate Merlinn with Confluence. It is very similar to the [Jira](./08-Jira.md) guide.

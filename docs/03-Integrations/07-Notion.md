@@ -1,3 +1,7 @@
+---
+sidebar_class_name: notion
+---
+
 # Notion
 
 This guide shows you how to integrate Merlinn with Notion.

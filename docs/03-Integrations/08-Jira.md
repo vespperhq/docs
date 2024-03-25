@@ -1,3 +1,7 @@
+---
+sidebar_class_name: jira
+---
+
 # Jira
 
 This guide shows you how to integrate Merlinn with Jira.

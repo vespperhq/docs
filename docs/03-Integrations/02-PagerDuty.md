@@ -1,3 +1,7 @@
+---
+sidebar_class_name: pagerduty
+---
+
 # PagerDuty
 
 This guide shows you how to integrate Merlinn with PagerDuty.

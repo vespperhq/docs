@@ -1,3 +1,7 @@
+---
+sidebar_class_name: mongodb
+---
+
 # MongoDB
 
 This guide shows you how to integrate Merlinn with MongoDB.

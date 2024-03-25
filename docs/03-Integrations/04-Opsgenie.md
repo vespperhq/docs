@@ -1,3 +1,7 @@
+---
+sidebar_class_name: opsgenie
+---
+
 # Opsgenie
 
 This guide shows you how to integrate Merlinn with Opsgenie.

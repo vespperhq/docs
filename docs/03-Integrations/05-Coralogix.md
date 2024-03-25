@@ -1,3 +1,7 @@
+---
+sidebar_class_name: coralogix
+---
+
 # Coralogix
 
 This guide shows you how to integrate Merlinn with Coralogix.
