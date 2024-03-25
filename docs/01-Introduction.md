@@ -29,3 +29,7 @@ At the moment, we support a wide range of integrations such as DataDog, Coralogi
 ## Getting started
 
 Getting started is easy and free! 🚀 Simply sign up [here](https://app.merlinn.co/) and continue to the [quickstart](./02-Quickstart.md) section.
+
+## Get in touch
+
+If you want to chat about your use case, reach out to us via email (support@merlinn.co) or schedule a [demo](https://calendly.com/dudu-merlinn/30min). Also, feel free to use Crisp at the bottom-right corner. One of the co-founders will get back to you ASAP!
