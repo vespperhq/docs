@@ -4,7 +4,7 @@ slug: /
 
 # Introduction
 
-Let's discover Merlinn in **less than 5 minutes**!
+Let's discover Merlinn in **less than 5 minutes**! 💫
 
 ## Overview
 
@@ -25,3 +25,7 @@ Merlinn is a smart AI agent. It connects with your organization's systems, knowl
 production issues in real time.
 
 At the moment, we support a wide range of integrations such as DataDog, Coralogix, Github, Slack, Confluence, and more.
+
+## Create an account
+
+Getting started is easy and free! 🚀 Simply sign up [here](https://app.merlinn.co/) and continue to the [quickstart](./02-Quickstart.md) section.
