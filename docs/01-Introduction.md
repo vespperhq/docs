@@ -26,6 +26,6 @@ production issues in real time.
 
 At the moment, we support a wide range of integrations such as DataDog, Coralogix, Github, Slack, Confluence, and more.
 
-## Create an account
+## Getting started
 
 Getting started is easy and free! 🚀 Simply sign up [here](https://app.merlinn.co/) and continue to the [quickstart](./02-Quickstart.md) section.
