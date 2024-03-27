@@ -58,7 +58,20 @@ To learn more about webhooks, check the [Webhooks](./04-Webhooks/01-PagerDuty.md
 
 ### Create a knowledge graph
 
-[TBD]
+Creating a knowledge graph is a crucial step in the setup process. It allows Merlinn to search contextual
+information that might be relevant for the investigation.
+
+Here is a short video that demonstrates how to create a knowledge graph. It usually takes 5-30 minutes (depending on the amount of data) to create a knowledge graph, so we skipped the waiting to show the final result:
+
+<div style={{ position: 'relative', paddingBottom: '57.50798722044729%', height: 0 }}>
+    <iframe
+    src="https://www.loom.com/embed/8e11837657df42f5b7d6892ac3b80522?sid=90bd74b7-ef38-4fa7-b429-d37b440670a3"
+    title="Embedded Video"
+    frameBorder="0"
+    allowFullScreen
+    style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
+    ></iframe>
+</div>
 
 ## Usage
 
