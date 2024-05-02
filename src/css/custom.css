@@ -154,3 +154,26 @@ html[data-theme="dark"] .github a::before {
   width: 16px;
   display: inline-block;
 }
+
+
+.grafana a::before {
+  content: ' ';
+  margin-right: 0.5rem;
+  background: url(../../static/img/logos/logo-grafana.png) no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 16px;
+  width: 16px;
+  display: inline-block;
+}
+
+.jaeger a::before {
+  content: ' ';
+  margin-right: 0.5rem;
+  background: url(../../static/img/logos/logo-jaeger.png) no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 16px;
+  width: 16px;
+  display: inline-block;
+}
