@@ -57,6 +57,13 @@ const config: Config = {
           position: "left",
           label: "Docs",
         },
+        {
+          position: "right",
+          label: "Github",
+          href: "https://github.com/merlinn-co/merlinn",
+          className: "header-github-link",
+          "aria-label": "GitHub repository",
+        },
       ],
     },
     prism: {

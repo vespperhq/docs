@@ -28,7 +28,7 @@ At the moment, we support a wide range of integrations such as DataDog, Coralogi
 
 ## Getting started
 
-Getting started is easy and free! 🚀 Simply sign up [here](https://app.merlinn.co/) and continue to the [quickstart](./02-Quickstart.md) section.
+Getting started is easy and free! 🚀 Head over to the [setup](./02-Getting%20started/01-Setup%20Merlinn.md) page.
 
 ## Get in touch
 
