@@ -15,7 +15,7 @@ Merlinn utilizes your Github repos in order to shed light on real-time issues in
 ## Prerequisites
 
 - Working environment with an organization. If you don't have one, head over to the [setup](../02-Getting%20started/01-Setup%20Merlinn.md) page.
-- Github PAT token. Visit [this](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) page to learn how to create one.
+- Github PAT token. Visit [this](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) page to learn how to create one. Note: if you want to read private/org repos, make sure your token has the necessary permissions.
 
 ## Setup
 
