@@ -74,12 +74,12 @@ You can find the installation video [here](https://www.loom.com/share/1f562cb067
    docker compose up -d
    ```
 
-That's it. You should be able to visit Merlinn's dashboard in http://localhost:5173.
+That's it. You should be able to visit Vespper's dashboard in http://localhost:5173.
 Simply create a user **(with the same e-mail as the one in your Slack user)** and start to configure your organization.
 
 The next steps are to configure your organization a bit more (connect incident management tools, build a knowledge base, etc). Head over to the [Configure & connect](../02-Getting%20started/02-Configure%20&%20connect.md) section.
 
-### Updating Merlinn 🧙‍♂️
+### Updating Vespper 🧙‍♂️
 
 1. Pull the latest changes:
 

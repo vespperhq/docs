@@ -54,7 +54,7 @@ To learn more about webhooks, check the [Webhooks](../04-Webhooks/01-PagerDuty.m
 
 ### Create a knowledge graph
 
-Creating a knowledge graph is a crucial step in the setup process. It allows Merlinn to search contextual
+Creating a knowledge graph is a crucial step in the setup process. It allows Vespper to search contextual
 information that might be relevant for the investigation.
 
 Here is a short video that demonstrates how to create a knowledge graph. It usually takes 5-30 minutes (depending on the amount of data) to create a knowledge graph, so we skipped the waiting to show the final result:
@@ -71,21 +71,21 @@ Here is a short video that demonstrates how to create a knowledge graph. It usua
 
 ## Usage
 
-Once everything is set up, you can start using Merlinn. It'd have access to your tools and knowledge graph.
+Once everything is set up, you can start using Vespper. It'd have access to your tools and knowledge graph.
 
 There are several ways to interact with the assistant.
 
 ### Incident investigation
 
-Merlinn can now start investigating incidents automatically and give some contextual findings. For example:
+Vespper can now start investigating incidents automatically and give some contextual findings. For example:
 <img src="../img/doc-imgs/usage-incident-investigation.png" style={{width: "50%"}} />
 
 ### Private chat
 
-You can send direct messages to Merlinn and have a conversation with it. For example:
+You can send direct messages to Vespper and have a conversation with it. For example:
 <img src="../img/doc-imgs/usage-direct-message.png" style={{width: "50%"}} />
 
 ### Incident thread
 
-You can interact with Merlinn in your incidents threads by simply mentioning it with **@Merlinn**. For example:
+You can interact with Vespper in your incidents threads by simply mentioning it with **@Vespper**. For example:
 <img src="../img/doc-imgs/usage-incident-thread.png" style={{width: "50%"}} />

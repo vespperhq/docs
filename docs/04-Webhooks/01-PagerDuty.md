@@ -20,7 +20,7 @@ For more information about PagerDuty webhooks, checkout the official [documentat
 
 ## Setup
 
-Follow these steps to connect Merlinn to PagerDuty:
+Follow these steps to connect Vespper to PagerDuty:
 
 1. Inside your organization settings, go to "Webhooks".
 2. Locate the "PagerDuty" integration and click "Add".
@@ -36,4 +36,4 @@ Once you've obtained your secret, go to your PagerDuty account dashboard and fol
 6. Add a custom header called **"x-vespper-secret"** and insert your secret.
 7. Click “Add Webhook”
 
-That's it! Now Merlinn will be notified when an incident happens.
+That's it! Now Vespper will be notified when an incident happens.
