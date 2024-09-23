@@ -48,7 +48,7 @@ const config: Config = {
       title: "Vespper",
       logo: {
         alt: "Vespper's Logo",
-        src: "img/logo.svg",
+        src: "img/logo.png",
       },
       items: [
         {
