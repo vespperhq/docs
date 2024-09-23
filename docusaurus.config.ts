@@ -60,7 +60,7 @@ const config: Config = {
         {
           position: "right",
           label: "Github",
-          href: "https://github.com/vespper-co/vespper",
+          href: "https://github.com/vespperhq/vespper",
           className: "header-github-link",
           "aria-label": "GitHub repository",
         },

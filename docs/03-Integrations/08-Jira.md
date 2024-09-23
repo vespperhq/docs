@@ -27,7 +27,7 @@ Follow these steps to connect Vespper to Jira:
 2. Locate the "Jira" integration and click "Add".
 3. Insert your user email inside the "Atlassian User Email" field.
 4. Insert your Atlassian API key inside the "API token" field.
-5. Insert your site URL inside the "Site URL" field. This should look something like this: `vespper-co-jira.atlassian.net`, without `https://` and trailing slash `/`.
+5. Insert your site URL inside the "Site URL" field. This should look something like this: `vespper-jira.atlassian.net`, without `https://` and trailing slash `/`.
 6. Click "Connect"
 
 That's it! You can go back to Vespper's dashboard.
