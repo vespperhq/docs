@@ -4,24 +4,24 @@ sidebar_class_name: opsgenie
 
 # Opsgenie
 
-This guide shows you how to integrate Merlinn with Opsgenie.
+This guide shows you how to integrate Vespper with Opsgenie.
 
 ## Overview
 
-Merlinn uses Opsgenie to obtain information about real time production alerts & incidents.
+Vespper uses Opsgenie to obtain information about real time production alerts & incidents.
 
-Merlinn is connected to Opsgenie via Opsgenie's API integration. Namely, you generate an API key
-in your Opsgenie account and you associate it with your Merlinn's organization.
+Vespper is connected to Opsgenie via Opsgenie's API integration. Namely, you generate an API key
+in your Opsgenie account and you associate it with your Vespper's organization.
 
 **To learn how to create an API key, go to Opsgenie's official [docs](https://support.atlassian.com/opsgenie/docs/create-a-default-api-integration/).**
 
 ## Prerequisites
 
-- Working environment with an organization. If you don't have one, head over to the [setup](../02-Getting%20started/01-Setup%20Merlinn.md) page.
+- Working environment with an organization. If you don't have one, head over to the [setup](../02-Getting%20started/01-Setup%20Vespper.md) page.
 
 ## Setup
 
-Follow these steps to connect Merlinn to Opsgenie:
+Follow these steps to connect Vespper to Opsgenie:
 
 1. Inside your organization settings, go to "Integrations".
 2. Locate the "Opsgenie" integration and click "Add".

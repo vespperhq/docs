@@ -1,6 +1,6 @@
 # Overview
 
-Merlinn's customer facing documentation. The docs are built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Vespper's customer facing documentation. The docs are built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 

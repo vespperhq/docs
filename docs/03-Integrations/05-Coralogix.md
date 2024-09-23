@@ -4,21 +4,21 @@ sidebar_class_name: coralogix
 
 # Coralogix
 
-This guide shows you how to integrate Merlinn with Coralogix.
+This guide shows you how to integrate Vespper with Coralogix.
 
 ## Overview
 
-Merlinn uses Coralogix to access your production environment's observability data. Merlinn is connected to Coralogix via Coralogix's APIs.
+Vespper uses Coralogix to access your production environment's observability data. Vespper is connected to Coralogix via Coralogix's APIs.
 
 **To learn more about Coralogix APIs, go to the official [docs](https://coralogix.com/docs/coralogix-apis/).**
 
 ## Prerequisites
 
-- Working environment with an organization. If you don't have one, head over to the [setup](../02-Getting%20started/01-Setup%20Merlinn.md) page.
+- Working environment with an organization. If you don't have one, head over to the [setup](../02-Getting%20started/01-Setup%20Vespper.md) page.
 
 ## Setup
 
-Follow these steps to connect Merlinn to Coralogix:
+Follow these steps to connect Vespper to Coralogix:
 
 1. Inside your organization settings, go to "Integrations".
 2. Locate the "Coralogix" integration and click "Add".

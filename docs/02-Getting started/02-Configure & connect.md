@@ -1,12 +1,12 @@
 # Configure & connect
 
-Learn how to configure Merlinn and connect it to your organization's tools.
+Learn how to configure Vespper and connect it to your organization's tools.
 
-At the end, you should be able to interact with Merlinn on Slack about your production issues and in general ask it for advice about technical issues.
+At the end, you should be able to interact with Vespper on Slack about your production issues and in general ask it for advice about technical issues.
 
 ## Prerequisites
 
-Make sure you have a working environment. If you don't have one yet, go to the [setup](01-Setup%20Merlinn.md) section.
+Make sure you have a working environment. If you don't have one yet, go to the [setup](01-Setup%20Vespper.md) section.
 
 ## Configure
 
@@ -14,7 +14,7 @@ Once you have a working environment, follow these sections.
 
 ### Create an organization
 
-Merlinn works in the context of an organization. To get started, you need to create an organization:
+Vespper works in the context of an organization. To get started, you need to create an organization:
 
 1. Go to the dashboard and click "Organization" in the side drawer.
 2. Click "Create a new organization".
@@ -24,14 +24,14 @@ Merlinn works in the context of an organization. To get started, you need to cre
 Once created, you should see the organization overview screen:
 <img src="../img/doc-imgs/organization-overview.png" />
 :::tip
-To allow other team members to interact with Merlinn, you need to invite them to your organization. For this, you need to configure an `SMTP_CONNECTION_URL` in your environment variables. Use a service like [SendGrid](https://sendgrid.com/) or [Mailgun](https://www.mailgun.com/).
+To allow other team members to interact with Vespper, you need to invite them to your organization. For this, you need to configure an `SMTP_CONNECTION_URL` in your environment variables. Use a service like [SendGrid](https://sendgrid.com/) or [Mailgun](https://www.mailgun.com/).
 
 After you have a working SMTP server, go to "Members" and click "Invite members".
 :::
 
 ### Connect integrations
 
-Merlinn supports several integrations that allows it to fetch data during incidents & follow-up questions. To connect integrations, go to your "Integrations" page.
+Vespper supports several integrations that allows it to fetch data during incidents & follow-up questions. To connect integrations, go to your "Integrations" page.
 
 :::info
 To learn which integrations are available, check the [Integrations](../03-Integrations/01-Slack.md) section.
@@ -39,7 +39,7 @@ To learn which integrations are available, check the [Integrations](../03-Integr
 
 ### Configure webhooks
 
-Merlinn listens to production incidents and starts investigating them automatically. We currently support **PagerDuty**, **Opsgenie** and **Alert Manager** as the sources of incidents/alerts. More specifically, we use a webhook endpoint that is triggered by these different vendors that sets off the investigation process.
+Vespper listens to production incidents and starts investigating them automatically. We currently support **PagerDuty**, **Opsgenie** and **Alert Manager** as the sources of incidents/alerts. More specifically, we use a webhook endpoint that is triggered by these different vendors that sets off the investigation process.
 
 To configure these webhooks, go to the "Webhooks" page inside your organization settings page. There, you can find instructions for each vendor.
 
@@ -54,7 +54,7 @@ To learn more about webhooks, check the [Webhooks](../04-Webhooks/01-PagerDuty.m
 
 ### Create a knowledge graph
 
-Creating a knowledge graph is a crucial step in the setup process. It allows Merlinn to search contextual
+Creating a knowledge graph is a crucial step in the setup process. It allows Vespper to search contextual
 information that might be relevant for the investigation.
 
 Here is a short video that demonstrates how to create a knowledge graph. It usually takes 5-30 minutes (depending on the amount of data) to create a knowledge graph, so we skipped the waiting to show the final result:
@@ -71,21 +71,21 @@ Here is a short video that demonstrates how to create a knowledge graph. It usua
 
 ## Usage
 
-Once everything is set up, you can start using Merlinn. It'd have access to your tools and knowledge graph.
+Once everything is set up, you can start using Vespper. It'd have access to your tools and knowledge graph.
 
 There are several ways to interact with the assistant.
 
 ### Incident investigation
 
-Merlinn can now start investigating incidents automatically and give some contextual findings. For example:
+Vespper can now start investigating incidents automatically and give some contextual findings. For example:
 <img src="../img/doc-imgs/usage-incident-investigation.png" style={{width: "50%"}} />
 
 ### Private chat
 
-You can send direct messages to Merlinn and have a conversation with it. For example:
+You can send direct messages to Vespper and have a conversation with it. For example:
 <img src="../img/doc-imgs/usage-direct-message.png" style={{width: "50%"}} />
 
 ### Incident thread
 
-You can interact with Merlinn in your incidents threads by simply mentioning it with **@Merlinn**. For example:
+You can interact with Vespper in your incidents threads by simply mentioning it with **@Vespper**. For example:
 <img src="../img/doc-imgs/usage-incident-thread.png" style={{width: "50%"}} />
