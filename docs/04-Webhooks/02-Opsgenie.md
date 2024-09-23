@@ -4,7 +4,7 @@ sidebar_class_name: opsgenie
 
 # Opsgenie
 
-This guide shows you how to create a webhook to Merlinn in your Opsgenie account.
+This guide shows you how to create a webhook to Vespper in your Opsgenie account.
 
 ## Overview
 
@@ -33,7 +33,7 @@ Once you've obtained your secret, go to your Opsgenie account dashboard and foll
 3. Give it a name and click "Create".
 4. Go to the integration settings and choose “Authenticate with a Webhook account”
 5. In the Webhook URL, insert your ngrok tunnel URL followed by `/webhooks/opsgenie`, e.g `https://1234abcd.ngrok.io/webhooks/opsgenie`.
-6. Add a custom header called **x-merlinn-secret** and put your secret.
+6. Add a custom header called **x-vespper-secret** and put your secret.
 7. Mark the **Add Alert Description to Payload** and **Add Alert Details to Payload** options.
 8. Click **Save**
 9. In the Alert Actions section, choose only **Alert is created**

@@ -3,7 +3,7 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Merlinn",
+  title: "Vespper",
   tagline: "Investigate production incidents efficiently using AI",
   favicon: "img/favicon.ico",
 
@@ -45,9 +45,9 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "Merlinn",
+      title: "Vespper",
       logo: {
-        alt: "Merlinn's Logo",
+        alt: "Vespper's Logo",
         src: "img/logo.svg",
       },
       items: [
@@ -60,7 +60,7 @@ const config: Config = {
         {
           position: "right",
           label: "Github",
-          href: "https://github.com/merlinn-co/merlinn",
+          href: "https://github.com/vespper-co/vespper",
           className: "header-github-link",
           "aria-label": "GitHub repository",
         },

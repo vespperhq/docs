@@ -1,6 +1,6 @@
-# Setup Merlinn
+# Setup Vespper
 
-This guide walks you through on how to setup Merlinn on your machien.
+This guide walks you through on how to setup Vespper on your machien.
 
 ## Prerequisites 📜
 
@@ -16,7 +16,7 @@ You can find the installation video [here](https://www.loom.com/share/1f562cb067
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:merlinn-co/merlinn.git && cd merlinn
+   git clone git@github.com:vespper-co/vespper.git && cd vespper
    ```
 
 2. Copy the .env.example file:
@@ -63,11 +63,11 @@ You can find the installation video [here](https://www.loom.com/share/1f562cb067
 
 6. Update these variables:
 
-   - `SLACK_BOT_TOKEN`, `SLACK_APP_TOKEN` and `SLACK_SIGNING_SECRET` - These variables are needed in order to talk to Merlinn on Slack. Please follow [this guide](https://github.com/merlinn-co/merlinn/tree/main/config/slack/README.md) to create a new Slack app in your organization.
+   - `SLACK_BOT_TOKEN`, `SLACK_APP_TOKEN` and `SLACK_SIGNING_SECRET` - These variables are needed in order to talk to Vespper on Slack. Please follow [this guide](https://github.com/vespper-co/vespper/tree/main/config/slack/README.md) to create a new Slack app in your organization.
 
    - `HASHICORP_VAULT_ROOT_TOKEN` and `HASHICORP_VAULT_UNSEAL_TOKEN` - These variables are used to manage your secrets. You should obtain them from the JSON you've downloaded at step 3. `root_token`=`HASHICORP_VAULT_ROOT_TOKEN`, `keys_base64`=`HASHICORP_VAULT_UNSEAL_TOKEN`
 
-   - (Optional) `SMTP_CONNECTION_URL` - This variable is needed in order to invite new members to your Merlinn organization via email and allow them to use the bot. It's not mandatory if you just want to test Merlinn and play with it. If you do want to send invites to your team members, you can use a service like SendGrid/Mailgun. Should follow this pattern: `smtp://username:password@domain:port`.
+   - (Optional) `SMTP_CONNECTION_URL` - This variable is needed in order to invite new members to your Vespper organization via email and allow them to use the bot. It's not mandatory if you just want to test Vespper and play with it. If you do want to send invites to your team members, you can use a service like SendGrid/Mailgun. Should follow this pattern: `smtp://username:password@domain:port`.
 
 7. Launch the project:
    ```bash
