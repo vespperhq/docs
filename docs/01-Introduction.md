@@ -16,7 +16,7 @@ your personal assistant that knows your system and can help you troubleshoot pro
 For a detailed illustration, check out our 6-minute demo:
 
 <div style={{position: "relative", paddingBottom: "62.5%", height: 0}}>
-  <iframe src="https://www.loom.com/embed/85dc64d021cc40c4b1064389c20782a6?sid=416bb9ab-eaa1-47d4-aeaf-15438c96b603" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style={{position: "absolute", top: 0, left: 0, width: "100%", height: "100%"}}></iframe>
+  <iframe src="https://www.youtube.com/watch?v=1az7UP66T24" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style={{position: "absolute", top: 0, left: 0, width: "100%", height: "100%"}}></iframe>
 </div>
 
 ## How does it work?
