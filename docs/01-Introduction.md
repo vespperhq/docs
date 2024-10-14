@@ -13,11 +13,7 @@ your personal assistant that knows your system and can help you troubleshoot pro
 
 ### Demo
 
-For a detailed illustration, check out our 6-minute demo:
-
-<div style={{position: "relative", paddingBottom: "62.5%", height: 0}}>
-  <iframe src="https://www.youtube.com/watch?v=1az7UP66T24" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style={{position: "absolute", top: 0, left: 0, width: "100%", height: "100%"}}></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1az7UP66T24?si=6nofaYaa3VyKGsNB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## How does it work?
 
